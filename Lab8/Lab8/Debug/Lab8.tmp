@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\Debug\Lab8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab8.map</FILE>
+  <FILE>Lab8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>74</LINE></INIT>
+  <HitRight><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>144</LINE></HitRight>
+  <HitLeft><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>185</LINE></HitLeft>
+  <USART_Receive><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>254</LINE></USART_Receive>
+  <MAIN><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>131</LINE></MAIN>
+  <Wait><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>230</LINE></Wait>
+  <Loop><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>235</LINE></Loop>
+  <OLoop><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>236</LINE></OLoop>
+  <ILoop><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>237</LINE></ILoop>
+  <EndAddressCompare><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>266</LINE></EndAddressCompare>
+  <EndCompareAction><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>344</LINE></EndCompareAction>
+  <EndFreezeCommand><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>288</LINE></EndFreezeCommand>
+  <NormalFreeze><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>279</LINE></NormalFreeze>
+  <FrozenForever><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>277</LINE></FrozenForever>
+  <EndMovFwd><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>298</LINE></EndMovFwd>
+  <EndMovBck><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>305</LINE></EndMovBck>
+  <EndTurnR><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>312</LINE></EndTurnR>
+  <EndTurnL><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>319</LINE></EndTurnL>
+  <EndHalt><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>327</LINE></EndHalt>
+  <USART_Transmit><FILE>C:\Users\Chase's Laptop\Documents\Atmel Studio\7.0\Lab8\Lab8\AsmFile1.asm</FILE><LINE>356</LINE></USART_Transmit>
+ </LABELS>
+</ASSEMBLER_INFO>
